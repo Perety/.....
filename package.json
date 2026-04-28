@@ -1,0 +1,6 @@
+{
+  "name": "vercel-mini-proxy",
+  "version": "1.0.0",
+  "description": "Mini proxy navegador para Vercel",
+  "type": "module"
+}
